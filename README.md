@@ -1,5 +1,8 @@
 # City Energy Consumption Analysis & Prediction System
 
+## Internship Project
+This project is developed as part of the Data Science Internship at Info Bharat Interns.
+
 ## 📌 Overview
 This project analyzes electricity consumption patterns across different city zones and predicts future energy usage using Machine Learning techniques.
 
